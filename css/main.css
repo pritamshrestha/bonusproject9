@@ -1,0 +1,11 @@
+.me{height:300px;
+    width:300px;
+    background-color:green;
+    margin:40px auto;}
+
+.you{height:500px;
+    width:100%;
+    background-color:red;
+    margin:0 auto;
+    text-align:center;
+    padding-top:250px;}
